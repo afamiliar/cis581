@@ -14,3 +14,8 @@ Personal code for CIS 581 Computational Photography & Computer Vision (Fall 2017
 
 <br/> Project3C: Matlab code for video mosaicing (feature detection, feature matching, RANSAC, frame mosaicing via gradient domain blending)
 
+<br/> Project4A: Python code for optical flow of faces in videos (face detection, feature detection, feature tracking, face tracking)
+
+<br/> Project4B: Python code for convolutional neural network implementation (with different activation functions)
+
+<br/> Project4C: Python code for automatic face swapping in videos (optical flow + CNN)
