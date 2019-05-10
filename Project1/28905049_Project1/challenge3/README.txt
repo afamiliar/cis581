@@ -1,0 +1,2 @@
+CIS 581 Fall 2017PROJECT 1CHALLENGE #3:Same edge detection pipeline as for grayscale images, performed on each color channel separately.
+Original channels are masked by their respective edge detection results, then summed up across channels and plotted.
